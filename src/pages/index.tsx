@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 export default function Home() {
   return (
     <div
-      className={`${geistSans.className} ${geistMono.className} grid items-center justify-items-center min-h-screen gap-16 font-[family-name:var(--font-geist-sans)]`}
+      className={`${geistSans.className} ${geistMono.className} min-h-screen gap-16 font-[family-name:var(--font-geist-sans)]`}
     >
       <main className="flex flex-col gap-[32px] items-center sm:items-start">
         <MyEditor />
