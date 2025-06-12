@@ -16,7 +16,7 @@
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/wysiwyg-editor.git
+git clone https://github.com/MostafaFathy367/wysiwyg-editor.git
 cd wysiwyg-editor
 
 # 2. Install dependencies
